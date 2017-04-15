@@ -11,12 +11,16 @@ The dataset has been processed using run_analysis.R to create the tidydata.txt f
 
 The data set contains 180 rows of data with 69 variables.
 
-All variables are numeric except for 'Activity' which is a factor of the six activities - (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
+All variables are NUMERIC except for 'Activity' which is a FACTOR of the six activities - (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). 
+
+Each row contains the average values for each subject and activity for the mean and standard deviation variables selected.
 
 The 69 variables are:
 
 Activity_id
+
 Activity
+
 Subject_id
 
 TimeBodyAccelerationMeanX
@@ -26,65 +30,125 @@ TimeBodyAccelerationMeanY
 TimeBodyAccelerationMeanZ
 
 TimeBodyAccelerationStandardDeviationX
+
 TimeBodyAccelerationStandardDeviationY
+
 TimeBodyAccelerationStandardDeviationZ
+
 TimeGravityAccelerationMeanX
+
 TimeGravityAccelerationMeanY
+
 TimeGravityAccelerationMeanZ
+
 TimeGravityAccelerationStandardDeviationX
+
 TimeGravityAccelerationStandardDeviationY
+
 TimeGravityAccelerationStandardDeviationZ
+
 TimeBodyAccelerationJerkMeanX
+
 TimeBodyAccelerationJerkMeanY
+
 TimeBodyAccelerationJerkMeanZ
+
 TimeBodyAccelerationJerkStandardDeviationX
+
 TimeBodyAccelerationJerkStandardDeviationY
+
 TimeBodyAccelerationJerkStandardDeviationZ
+
 TimeBodyGyroMeanX
+
 TimeBodyGyroMeanY
+
 TimeBodyGyroMeanZ
+
 TimeBodyGyroStandardDeviationX
+
 TimeBodyGyroStandardDeviationY
+
 TimeBodyGyroStandardDeviationZ
+
 TimeBodyGyroJerkMeanX
+
 TimeBodyGyroJerkMeanY
+
 TimeBodyGyroJerkMeanZ
+
 TimeBodyGyroJerkStandardDeviationX
+
 TimeBodyGyroJerkStandardDeviationY
+
 TimeBodyGyroJerkStandardDeviationZ
+
 TimeBodyAccelerationMagnitudeMean
+
 TimeBodyAccelerationMagnitudeStandardDeviation
+
 TimeGravityAccelerationMagnitudeMean
+
 TimeGravityAccelerationMagnitudeStandardDeviation
+
 TimeBodyAccelerationJerkMagnitudeMean
+
 TimeBodyAccelerationJerkMagnitudeStandardDeviation
+
 TimeBodyGyroMagnitudeMean
+
 TimeBodyGyroMagnitudeStandardDeviation
+
 TimeBodyGyroJerkMagnitudeMean
+
 TimeBodyGyroJerkMagnitudeStandardDeviation
+
 FrequencyBodyAccelerationMeanX
+
 FrequencyBodyAccelerationMeanY
+
 FrequencyBodyAccelerationMeanZ
+
 FrequencyBodyAccelerationStandardDeviationX
+
 FrequencyBodyAccelerationStandardDeviationY
+
 FrequencyBodyAccelerationStandardDeviationZ
+
 FrequencyBodyAccelerationJerkMeanX
+
 FrequencyBodyAccelerationJerkMeanY
+
 FrequencyBodyAccelerationJerkMeanZ
+
 FrequencyBodyAccelerationJerkStandardDeviationX
+
 FrequencyBodyAccelerationJerkStandardDeviationY
+
 FrequencyBodyAccelerationJerkStandardDeviationZ
+
 FrequencyBodyGyroMeanX
+
 FrequencyBodyGyroMeanY
+
 FrequencyBodyGyroMeanZ
+
 FrequencyBodyGyroStandardDeviationX
+
 FrequencyBodyGyroStandardDeviationY
+
 FrequencyBodyGyroStandardDeviationZ
+
 FrequencyBodyAccelerationMagnitudeMean
+
 FrequencyBodyAccelerationMagnitudeStandardDeviation
+
 FrequencyBodyAccelerationJerkMagnitudeMean
+
 FrequencyBodyAccelerationJerkMagnitudeStandardDeviation
+
 FrequencyBodyGyroMagnitudeMean
+
 FrequencyBodyGyroMagnitudeStandardDeviation
 
 FrequencyBodyGyroJerkMagnitudeMean
