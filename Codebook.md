@@ -18,9 +18,13 @@ The 69 variables are:
 Activity_id
 Activity
 Subject_id
+
 TimeBodyAccelerationMeanX
+
 TimeBodyAccelerationMeanY
+
 TimeBodyAccelerationMeanZ
+
 TimeBodyAccelerationStandardDeviationX
 TimeBodyAccelerationStandardDeviationY
 TimeBodyAccelerationStandardDeviationZ
@@ -82,5 +86,7 @@ FrequencyBodyAccelerationJerkMagnitudeMean
 FrequencyBodyAccelerationJerkMagnitudeStandardDeviation
 FrequencyBodyGyroMagnitudeMean
 FrequencyBodyGyroMagnitudeStandardDeviation
+
 FrequencyBodyGyroJerkMagnitudeMean
+
 FrequencyBodyGyroJerkMagnitudeStandardDeviation
