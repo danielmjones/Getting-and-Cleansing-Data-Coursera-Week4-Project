@@ -17,11 +17,11 @@ Each row contains the average values for each subject and activity for the mean 
 
 The 69 variables are:
 
-Activity_id
+Activity_id: Values 1-6
 
-Activity
+Activity: Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-Subject_id
+Subject_id: Values(1-30)
 
 TimeBodyAccelerationMeanX
 
