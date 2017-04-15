@@ -21,7 +21,7 @@ Activity_id: Values 1-6
 
 Activity: Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-Subject_id: Values(1-30)
+Subject_id: Values 1-30
 
 TimeBodyAccelerationMeanX
 
