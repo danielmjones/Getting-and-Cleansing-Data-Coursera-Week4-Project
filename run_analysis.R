@@ -91,4 +91,4 @@ tidydata<-merge(activity, tidydata, by.x = "Activity_id", by.y="Activity_id", al
 View(tidydata)
 
 ##then use write table to output to file.
-write.table(tidydata, "./data/tidydata.txt", col.names = TRUE)
+write.table(tidydata, "./data/tidydata.txt", row.name = FALSE, col.names = TRUE)
